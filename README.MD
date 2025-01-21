@@ -14,7 +14,7 @@ A graphical user interface for Sequelize CLI commands, built with Node.js, Expre
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/sequelize-cli-gui.git
+    git clone https://github.com/ntkhang03/sequelize-cli-gui.git
     cd sequelize-cli-gui
     ```
 
